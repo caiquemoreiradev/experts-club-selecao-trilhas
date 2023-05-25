@@ -1,0 +1,83 @@
+{
+    "tecnologies": [
+        {
+            "id": 0,
+            "title": "ReactJS",
+            "path": "Frontend",
+            "color": "#2AC7E3",
+            "background": "#182328",
+            "logo": "ReactJS",
+            "urlTecnologyPresentation": "https://www.youtube.com/embed/pDbcC-xSat4"
+        },
+        {
+            "id": 1,
+            "title": "NodeJS",
+            "path": "Backend",
+            "color": "#8CC84B",
+            "background": "#21381b",
+            "logo": "NodeJS",
+            "urlTecnologyPresentation": "https://www.youtube.com/embed/fm4_EuCsQwg"
+        },
+        {
+            "id": 2,
+            "title": "Elixir",
+            "path": "Backend",
+            "color": "#B13AF0",
+            "background": "#2e2340",
+            "logo": "Elixir",
+            "urlTecnologyPresentation": "https://www.youtube.com/embed/Q4z8rgSt-AU"
+        },
+        {
+            "id": 3,
+            "title": "React Native",
+            "path": "Mobile",
+            "color": "#667DFF",
+            "background": "#153779",
+            "logo": "ReactNative",
+            "urlTecnologyPresentation": "https://www.youtube.com/embed/ApSHnjXeAq0"
+        }
+    ],
+
+    "educators": [
+        {
+            "id": 0,
+            "name": "Diego Fernandes",
+            "title": "Educador",
+            "pathDescription": "Se o seu objetivo está alinhado com o front-end, e você deseja construir interfaces modernas e reativas na web utilizando uma biblioteca modular e escalável, esse Ignite é para você.",
+            "educatorDescription": "Responsável pela área de tecnologia da Rocketseat - onde utilizamos principalmente Node.js e ReactJS para atender milhares de devs na nossa plataforma - é o educador que vai te guiar no Ignite ReactJS.",
+            "backgroundGradient": "rgb(24, 35, 40)",
+            "color": "#2AC7E3",
+            "educatorImg": "https://media.graphcms.com/En4exJXRQhWvLQNdCTyp"
+        },
+        {
+            "id": 1,
+            "name": "Daniele Evangelista",
+            "title": "Educadora",
+            "pathDescription": "Se o seu objetivo está alinhado com o back-end, e você deseja construir arquiteturas escaláveis e simples para a web utilizando uma linguagem flexível e popular, essa trilha é para você.",
+            "educatorDescription": "Formada em Sistemas de Informação, há 11 anos atua no mercado como programadora. Foi responsável pelo time de educação aqui na Rocketseat, e é a educadora que vai te guiar no Ignite Node.js.",
+            "backgroundGradient": "rgb(32, 40, 24)",
+            "color": "#8CC84B",
+            "educatorImg": "https://media.graphcms.com/nGQ40EFtQQRdh60KGQ5w"
+        },
+        {
+            "id": 2,
+            "name": "Rafael Camarda",
+            "title": "Educador",
+            "pathDescription": "Se o seu objetivo está alinhado com o back-end, e você deseja construir aplicações distribuídas, escaláveis e tolerantes a falhas utilizando programação funcional, essa trilha é para você.",
+            "educatorDescription": "Formado em Engenharia de Computação pela UFOP, iniciou sua jornada de ensino ainda na universidade. Há 6 anos no mercado como programador, é o educador que vai te guiar no Ignite Elixir.",
+            "backgroundGradient": "rgb(34, 24, 40)",
+            "color": "#B13AF0",
+            "educatorImg": "https://media.graphcms.com/IEAYfMDPQPebJipqiM7g"
+        },
+        {
+            "id": 3,
+            "name": "Rodrigo Gonçalves",
+            "title": "Educador",
+            "pathDescription": "Se o seu objetivo está alinhado com desenvolvimento mobile, e você deseja construir aplicações modernas tanto para iOS quanto para Android de forma nativa, esse Ignite é para você.",
+            "educatorDescription": "Coordenador e professor da Graduação em Sistemas de Informação, Analista de Soluções Tecnológicas e Desenvolvedor Full Stack Mobile e Web, é o educador que vai te guiar no Ignite React Native.",
+            "backgroundGradient": "rgb(24, 26, 40)",
+            "color": "#667DFF",
+            "educatorImg": "https://media.graphcms.com/C3xQwHe0QlS5tuKPEeI2"
+        }
+    ]
+}
